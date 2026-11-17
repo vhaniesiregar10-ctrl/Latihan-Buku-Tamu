@@ -1,0 +1,6 @@
+CLEAR
+ADD|Budi|Halo
+ADD||x
+ADD|Siti|Hai
+LIST
+EXIT
